@@ -1,0 +1,499 @@
+{
+  "schemaVersion": 1,
+  "description": "Explorer-specific editorial notes refer to the shared local wine-style profiles. Descriptions are general tendencies, not promises for a particular bottle.",
+  "profiles": [
+    {
+      "wineStyleId": "cabernet-sauvignon",
+      "introduction": "Often structured and fuller-feeling, Cabernet Sauvignon is a useful reference for a red with more noticeable tannin.",
+      "representativeRegions": [
+        "Bordeaux, France",
+        "Napa Valley, USA",
+        "Coonawarra, Australia"
+      ],
+      "styles": [
+        "Single-variety wines and blends"
+      ],
+      "whoMightEnjoy": "If you enjoy dark-fruit flavours and a drying, grippy feel.",
+      "similarStyleIds": [
+        "merlot",
+        "syrah-shiraz",
+        "malbec"
+      ],
+      "sources": [
+        {
+          "label": "WSET styles and body",
+          "url": "https://www.wsetglobal.com/knowledge-centre/blog/2023/october/03/how-many-wine-types-and-styles-are-there/"
+        }
+      ]
+    },
+    {
+      "wineStyleId": "merlot",
+      "introduction": "Merlot can range from supple and fruit-led to structured. It is a grape variety, not a guarantee of a soft wine.",
+      "representativeRegions": [
+        "Bordeaux, France",
+        "California, USA",
+        "Chile"
+      ],
+      "styles": [
+        "Single-variety wines and Bordeaux blends"
+      ],
+      "whoMightEnjoy": "If you want to explore plum-like fruit in a red, with body and tannin that vary.",
+      "similarStyleIds": [
+        "cabernet-sauvignon",
+        "grenache-garnacha"
+      ],
+      "sources": [
+        {
+          "label": "WSET on wine styles",
+          "url": "https://www.wsetglobal.com/knowledge-centre/blog/2023/october/03/how-many-wine-types-and-styles-are-there/"
+        }
+      ]
+    },
+    {
+      "wineStyleId": "pinot-noir",
+      "introduction": "Pinot Noir is often lighter in colour and tannin than Cabernet Sauvignon, but its body and flavour can vary widely.",
+      "representativeRegions": [
+        "Burgundy, France",
+        "Oregon, USA",
+        "Central Otago, New Zealand"
+      ],
+      "styles": [
+        "Still red wines, including regional appellations"
+      ],
+      "whoMightEnjoy": "If you like red-fruit possibilities and a lighter-feeling red.",
+      "similarStyleIds": [
+        "gamay-beaujolais",
+        "merlot"
+      ],
+      "sources": [
+        {
+          "label": "Burgundy white appellation (Chardonnay context)",
+          "url": "https://www.inao.gouv.fr/produit/bourgogne-blanc-24525"
+        }
+      ]
+    },
+    {
+      "wineStyleId": "syrah-shiraz",
+      "introduction": "Syrah and Shiraz are names for the same grape. Cool and warm settings can yield notably different expressions.",
+      "representativeRegions": [
+        "Northern Rhône, France",
+        "Barossa Valley, Australia",
+        "Washington State, USA"
+      ],
+      "styles": [
+        "Single-variety wines and blends"
+      ],
+      "whoMightEnjoy": "If you enjoy dark fruit and might like peppery or savory notes.",
+      "similarStyleIds": [
+        "cabernet-sauvignon",
+        "grenache-garnacha",
+        "malbec"
+      ],
+      "sources": [
+        {
+          "label": "Rhône grape varieties",
+          "url": "https://www.vins-rhone.com/en/rhone-valley-vineyards/grape-varieties"
+        }
+      ]
+    },
+    {
+      "wineStyleId": "malbec",
+      "introduction": "Malbec is grown in several countries; Argentine examples are especially well known, while style still depends on place and producer.",
+      "representativeRegions": [
+        "Mendoza, Argentina",
+        "Cahors, France"
+      ],
+      "styles": [
+        "Single-variety wines and blends"
+      ],
+      "whoMightEnjoy": "If you want to compare dark-fruited reds with a fuller feel.",
+      "similarStyleIds": [
+        "cabernet-sauvignon",
+        "syrah-shiraz",
+        "merlot"
+      ],
+      "sources": [
+        {
+          "label": "Argentina Wine",
+          "url": "https://www.argentina.gob.ar/node/462136"
+        }
+      ]
+    },
+    {
+      "wineStyleId": "grenache-garnacha",
+      "introduction": "Grenache, also called Garnacha, is used in red wines and blends. Warmer sites can give riper fruit and more generous body.",
+      "representativeRegions": [
+        "Southern Rhône, France",
+        "Aragón, Spain",
+        "Priorat, Spain"
+      ],
+      "styles": [
+        "Single-variety wines and blends"
+      ],
+      "whoMightEnjoy": "If you like ripe berry possibilities and less prominent tannin than some reds.",
+      "similarStyleIds": [
+        "syrah-shiraz",
+        "merlot"
+      ],
+      "sources": [
+        {
+          "label": "Rhône grape varieties",
+          "url": "https://www.vins-rhone.com/en/rhone-valley-vineyards/grape-varieties"
+        }
+      ]
+    },
+    {
+      "wineStyleId": "gamay-beaujolais",
+      "introduction": "Gamay is the key grape associated with Beaujolais. Many examples are fresh and fruit-led, though cru and producer styles differ.",
+      "representativeRegions": [
+        "Beaujolais, France",
+        "Loire Valley, France"
+      ],
+      "styles": [
+        "Regional reds",
+        "Beaujolais includes several appellations"
+      ],
+      "whoMightEnjoy": "If you would like to try a lighter red, sometimes served slightly cool.",
+      "similarStyleIds": [
+        "pinot-noir",
+        "grenache-garnacha"
+      ],
+      "sources": [
+        {
+          "label": "Beaujolais appellations",
+          "url": "https://www.beaujolais.com/appellation/beaujolais/"
+        }
+      ]
+    },
+    {
+      "wineStyleId": "chardonnay",
+      "introduction": "Chardonnay is made in a wide range of styles, from lean and crisp to fuller wines influenced by oak or malolactic fermentation.",
+      "representativeRegions": [
+        "Burgundy, France",
+        "Chablis, France",
+        "California, USA",
+        "Australia"
+      ],
+      "styles": [
+        "Still white wines and sparkling blends"
+      ],
+      "whoMightEnjoy": "If you want a grape that makes a useful comparison across regions and winemaking choices.",
+      "similarStyleIds": [
+        "chenin-blanc",
+        "pinot-grigio-gris"
+      ],
+      "sources": [
+        {
+          "label": "INAO Bourgogne Blanc",
+          "url": "https://www.inao.gouv.fr/produit/bourgogne-blanc-24525"
+        }
+      ]
+    },
+    {
+      "wineStyleId": "sauvignon-blanc",
+      "introduction": "Sauvignon Blanc is often aromatic and fresh, but climate and winemaking affect how its fruit and herbal notes show.",
+      "representativeRegions": [
+        "Loire Valley, France",
+        "Marlborough, New Zealand",
+        "Bordeaux, France"
+      ],
+      "styles": [
+        "Single-variety wines and blends"
+      ],
+      "whoMightEnjoy": "If you enjoy lively acidity and citrus or herbal aroma possibilities.",
+      "similarStyleIds": [
+        "gruner-veltliner",
+        "albarino",
+        "chenin-blanc"
+      ],
+      "sources": [
+        {
+          "label": "New Zealand Wine",
+          "url": "https://www.nzwine.com/en/winestyles/sauvignonblanc/?page=1"
+        }
+      ]
+    },
+    {
+      "wineStyleId": "riesling",
+      "introduction": "Riesling can be made from dry to sweet. Acidity, sweetness and fruit character are separate parts of the style.",
+      "representativeRegions": [
+        "Mosel, Germany",
+        "Alsace, France",
+        "Clare Valley, Australia"
+      ],
+      "styles": [
+        "Still wines across a broad sweetness range",
+        "also sparkling"
+      ],
+      "whoMightEnjoy": "If you want to learn how the same grape can produce different sweetness levels.",
+      "similarStyleIds": [
+        "chenin-blanc",
+        "gewurztraminer",
+        "gruner-veltliner"
+      ],
+      "sources": [
+        {
+          "label": "New Zealand Wine on Riesling",
+          "url": "https://www.nzwine.com/en/winestyles/riesling/"
+        }
+      ]
+    },
+    {
+      "wineStyleId": "pinot-grigio-gris",
+      "introduction": "Pinot Grigio and Pinot Gris are names for the same grape. Lighter, crisp examples and fuller, textured examples both exist.",
+      "representativeRegions": [
+        "Northern Italy",
+        "Alsace, France",
+        "Oregon, USA"
+      ],
+      "styles": [
+        "Still whites",
+        "regional styles vary"
+      ],
+      "whoMightEnjoy": "If you prefer an approachable white and want a useful lesson in regional style.",
+      "similarStyleIds": [
+        "sauvignon-blanc",
+        "chardonnay",
+        "albarino"
+      ],
+      "sources": [
+        {
+          "label": "WSET wine styles",
+          "url": "https://www.wsetglobal.com/knowledge-centre/blog/2023/october/03/how-many-wine-types-and-styles-are-there/"
+        }
+      ]
+    },
+    {
+      "wineStyleId": "chenin-blanc",
+      "introduction": "Chenin Blanc spans dry to sweet styles and can also be used in sparkling wines. Acidity often remains an important feature.",
+      "representativeRegions": [
+        "Loire Valley, France",
+        "South Africa"
+      ],
+      "styles": [
+        "Still dry, off-dry and sweet wines",
+        "sparkling examples"
+      ],
+      "whoMightEnjoy": "If you like variety and want to compare sweetness and texture in one grape.",
+      "similarStyleIds": [
+        "riesling",
+        "chardonnay",
+        "sauvignon-blanc"
+      ],
+      "sources": [
+        {
+          "label": "Vins de Loire grape varieties",
+          "url": "https://www.vinsdeloire.fr/fr/cepages?page=0"
+        }
+      ]
+    },
+    {
+      "wineStyleId": "gewurztraminer",
+      "introduction": "Gewürztraminer is aromatic. Its floral and spice-like aromas can seem bold, while the wine itself may range in sweetness.",
+      "representativeRegions": [
+        "Alsace, France",
+        "Alto Adige, Italy",
+        "Germany"
+      ],
+      "styles": [
+        "Still white wines, from dry to sweet examples"
+      ],
+      "whoMightEnjoy": "If you enjoy pronounced aromas; check the producer’s sweetness description.",
+      "similarStyleIds": [
+        "riesling",
+        "chenin-blanc"
+      ],
+      "sources": [
+        {
+          "label": "Vins d’Alsace",
+          "url": "https://www.vinsalsace.com/en/gouts-et-couleurs/cepages/fra/gewurztraminer-dalsace/"
+        }
+      ]
+    },
+    {
+      "wineStyleId": "albarino",
+      "introduction": "Albariño is a Spanish grape often associated with fresh coastal white wines. Its profile varies with location and producer.",
+      "representativeRegions": [
+        "Rías Baixas, Spain",
+        "Portugal (as Alvarinho)"
+      ],
+      "styles": [
+        "Still whites",
+        "also used in blends"
+      ],
+      "whoMightEnjoy": "If you enjoy fresh whites and often choose seafood.",
+      "similarStyleIds": [
+        "sauvignon-blanc",
+        "gruner-veltliner",
+        "pinot-grigio-gris"
+      ],
+      "sources": [
+        {
+          "label": "Rías Baixas DO on wines and Albariño",
+          "url": "https://doriasbaixas.com/en/our-wines/"
+        }
+      ]
+    },
+    {
+      "wineStyleId": "gruner-veltliner",
+      "introduction": "Grüner Veltliner is Austria’s best-known white grape. Styles range from light and fresh to richer examples.",
+      "representativeRegions": [
+        "Weinviertel, Austria",
+        "Wachau, Austria"
+      ],
+      "styles": [
+        "Still whites, with a broad range of weight"
+      ],
+      "whoMightEnjoy": "If you like fresh whites and want to explore an Austrian variety.",
+      "similarStyleIds": [
+        "sauvignon-blanc",
+        "albarino",
+        "riesling"
+      ],
+      "sources": [
+        {
+          "label": "Weinviertel DAC",
+          "url": "https://www.weinvierteldac.at/en/weinviertel-dac/gruener-veltliner/"
+        }
+      ]
+    },
+    {
+      "wineStyleId": "dry-rose",
+      "introduction": "Rosé is a colour and style category, not a grape. Dry rosé can be made from different dark-skinned grapes and methods.",
+      "representativeRegions": [
+        "Provence, France",
+        "Navarra, Spain",
+        "many regions"
+      ],
+      "styles": [
+        "Still rosé",
+        "colour and structure vary"
+      ],
+      "whoMightEnjoy": "If you want a pink wine without assuming it is sweet.",
+      "similarStyleIds": [
+        "off-dry-rose",
+        "pinot-noir",
+        "prosecco"
+      ],
+      "sources": [
+        {
+          "label": "WSET wine styles",
+          "url": "https://www.wsetglobal.com/knowledge-centre/blog/2023/october/03/how-many-wine-types-and-styles-are-there/"
+        }
+      ]
+    },
+    {
+      "wineStyleId": "off-dry-rose",
+      "introduction": "Off-dry rosé has some perceptible sweetness, though its acidity and fruit aromas can change the overall impression.",
+      "representativeRegions": [
+        "Made in many wine regions"
+      ],
+      "styles": [
+        "Still rosé",
+        "sweetness terms and levels vary"
+      ],
+      "whoMightEnjoy": "If you prefer a hint of sweetness; confirm the specific bottle’s description.",
+      "similarStyleIds": [
+        "dry-rose",
+        "riesling",
+        "moscato-dasti"
+      ],
+      "sources": [
+        {
+          "label": "WSET sweetness and styles",
+          "url": "https://www.wsetglobal.com/knowledge-centre/blog/2023/october/03/how-many-wine-types-and-styles-are-there/"
+        }
+      ]
+    },
+    {
+      "wineStyleId": "champagne-brut",
+      "introduction": "Champagne is sparkling wine from the Champagne region. Brut is a regulated sweetness category, not a grape or production method.",
+      "representativeRegions": [
+        "Champagne, France"
+      ],
+      "styles": [
+        "Traditional-method sparkling wine",
+        "blends and single-variety examples"
+      ],
+      "whoMightEnjoy": "If you want to explore traditional-method bubbles with a dry style cue.",
+      "similarStyleIds": [
+        "cava",
+        "prosecco",
+        "dry-rose"
+      ],
+      "sources": [
+        {
+          "label": "Comité Champagne dosage",
+          "url": "https://www.champagne.fr/en/about-champagne/how-champagne-is-made/dosage"
+        }
+      ]
+    },
+    {
+      "wineStyleId": "cava",
+      "introduction": "Cava is a Spanish designation for sparkling wines made under its rules. Traditional-method production is used, with permitted grapes and styles.",
+      "representativeRegions": [
+        "Catalonia and other designated Spanish areas"
+      ],
+      "styles": [
+        "Traditional-method sparkling wine, with several sweetness categories"
+      ],
+      "whoMightEnjoy": "If you enjoy bubbles and want to compare a Spanish sparkling tradition.",
+      "similarStyleIds": [
+        "champagne-brut",
+        "prosecco",
+        "dry-rose"
+      ],
+      "sources": [
+        {
+          "label": "Cava Regulatory Board",
+          "url": "https://www.cava.wine/en/regulatory-board/cava-designation-of-origin/"
+        }
+      ]
+    },
+    {
+      "wineStyleId": "prosecco",
+      "introduction": "Prosecco DOC is an Italian designation; many examples are made with Glera and use tank fermentation for their bubbles.",
+      "representativeRegions": [
+        "Veneto and Friuli Venezia Giulia, Italy"
+      ],
+      "styles": [
+        "Sparkling and semi-sparkling",
+        "sweetness categories vary"
+      ],
+      "whoMightEnjoy": "If you want approachable bubbles; check whether the label says Brut, Extra Dry or another category.",
+      "similarStyleIds": [
+        "cava",
+        "champagne-brut",
+        "moscato-dasti"
+      ],
+      "sources": [
+        {
+          "label": "Prosecco DOC types",
+          "url": "https://www.prosecco.wine/en/prosecco/discover/types/"
+        }
+      ]
+    },
+    {
+      "wineStyleId": "moscato-dasti",
+      "introduction": "Moscato d’Asti is a lightly sparkling, typically sweet Italian wine. Bottles vary, so use regional designation and producer details.",
+      "representativeRegions": [
+        "Asti area, Piedmont, Italy"
+      ],
+      "styles": [
+        "Asti DOCG lightly sparkling style"
+      ],
+      "whoMightEnjoy": "If you prefer noticeable sweetness and gentle bubbles.",
+      "similarStyleIds": [
+        "prosecco",
+        "riesling",
+        "off-dry-rose"
+      ],
+      "sources": [
+        {
+          "label": "WSET sweetness and styles",
+          "url": "https://www.wsetglobal.com/knowledge-centre/blog/2023/october/03/how-many-wine-types-and-styles-are-there/"
+        }
+      ]
+    }
+  ]
+}
